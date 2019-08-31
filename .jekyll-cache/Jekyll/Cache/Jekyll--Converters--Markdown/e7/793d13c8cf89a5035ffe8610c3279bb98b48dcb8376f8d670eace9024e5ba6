@@ -1,0 +1,1083 @@
+I"þÄ<div class="container">
+<h4 class="font-weight-bold spanborder"><span>Our Team</span></h4>
+    <div class="row gap-y listrecent listrecent listauthor">
+
+        <div class="row" style="width: 100%;padding: 30px;">
+            <div class="col-4">
+                <p style="width:100%;padding: 20px;margin: 20px;margin: auto;align-items: center;">Welcome</p> 
+            </div>
+            <div class="col-8">
+                <div class="o-video">
+  <iframe src="https://www.youtube.com/embed/Kch8n4tcOZQ" allowfullscreen=""></iframe>
+</div>
+            </div>
+        </div>
+
+        <!--div class="container" style="width:100%;padding: 20px;margin: 20px;margin: auto;align-items: center;"> <p>Welcome</p> 
+            <div class="o-video">
+  <iframe src="https://www.youtube.com/embed/Kch8n4tcOZQ" allowfullscreen></iframe>
+</div>
+
+        </div-->
+
+        <div class="row">
+            <div class="col-xs-12 ">
+                <nav>
+                    <div class="nav nav-tabs nav-fill" id="nav-tab" role="tablist">
+                        <div class="nav-item nav-link" id="nav-head-tab" data-toggle="tab" href="#nav-head" role="tab" aria-controls="nav-head" aria-selected="true">Team Heads</div>
+                        <div class="nav-item nav-link" id="nav-mech-tab" data-toggle="tab" href="#nav-mech" role="tab" aria-controls="nav-mech" aria-selected="false">Mechanical</div>
+                        <div class="nav-item nav-link" id="nav-elec-tab" data-toggle="tab" href="#nav-elec" role="tab" aria-controls="nav-elec" aria-selected="false">Electrical</div>
+                        <div class="nav-item nav-link" id="nav-market-tab" data-toggle="tab" href="#nav-market" role="tab" aria-controls="nav-market" aria-selected="false">Marketing-Design</div>
+                    </div>
+                </nav>
+                <div class="tab-content py-3 px-3 px-sm-0" id="nav-tabContent">
+                    
+                    
+                    <div class="tab-pane fade" id="nav-head" role="tabpanel" aria-labelledby="nav-head-tab">
+        <div class="row">
+
+          <div class="col-md-3">
+            <div class="team-member">
+              <figure>
+                <img src="http://www.mauritiusdsilva.com/themes/hallooou/assets/images/lauren-cox.jpg" alt="" class="img-responsive" />
+              </figure>
+              <h4>Lauren Cox</h4>
+              <p>Creative Director</p>
+              <a href="#" class="fa fa-facebook"></a>
+                <a href="#" class="fa fa-twitter"></a>
+                <a href="#" class="fa fa-google"></a>
+                <a href="#" class="fa fa-linkedin"></a>
+                <a href="#" class="fa fa-youtube"></a>
+                <a href="#" class="fa fa-instagram"></a>
+                <a href="#" class="fa fa-pinterest"></a>
+                <a href="#" class="fa fa-skype"></a>
+                <a href="#" class="fa fa-dribbble"></a>
+                <a href="#" class="fa fa-yahoo"></a>
+            </div><!-- /.team-member-->
+          </div><!-- /.col-md-4 -->
+
+          <div class="col-md-3">
+            <div class="team-member">
+              <figure>
+                <img src="http://www.mauritiusdsilva.com/themes/hallooou/assets/images/jessie-barnett.jpg" alt="" class="img-responsive" />
+
+              </figure>
+              <h4>Jessie Barnett</h4>
+              <p>UI/UX Designer</p>
+              <a href="#" class="fa fa-facebook"></a>
+                <a href="#" class="fa fa-twitter"></a>
+                <a href="#" class="fa fa-google"></a>
+                <a href="#" class="fa fa-linkedin"></a>
+                <a href="#" class="fa fa-youtube"></a>
+                <a href="#" class="fa fa-instagram"></a>
+                <a href="#" class="fa fa-pinterest"></a>
+                <a href="#" class="fa fa-skype"></a>
+                <a href="#" class="fa fa-dribbble"></a>
+                <a href="#" class="fa fa-yahoo"></a>
+            </div><!-- /.team-member-->
+          </div><!-- /.col-md-4 -->
+
+          <div class="col-md-3">
+            <div class="team-member">
+              <figure>
+                <img src="http://www.mauritiusdsilva.com/themes/hallooou/assets/images/terry-fletcher.jpg" alt="" class="img-responsive" />
+              </figure>
+              <h4>Terry Fletcher</h4>
+              <p>Web Developer</p>
+              <a href="#" class="fa fa-facebook"></a>
+                <a href="#" class="fa fa-twitter"></a>
+                <a href="#" class="fa fa-google"></a>
+                <a href="#" class="fa fa-linkedin"></a>
+                <a href="#" class="fa fa-youtube"></a>
+                <a href="#" class="fa fa-instagram"></a>
+                <a href="#" class="fa fa-pinterest"></a>
+                <a href="#" class="fa fa-skype"></a>
+                <a href="#" class="fa fa-dribbble"></a>
+                <a href="#" class="fa fa-yahoo"></a>
+            </div><!-- /.team-member-->
+          </div><!-- /.col-md-4 -->
+
+          <div class="col-md-3">
+            <div class="team-member">
+              <figure>
+                <img src="http://www.mauritiusdsilva.com/themes/hallooou/assets/images/terry-fletcher.jpg" alt="" class="img-responsive" />
+              </figure>
+              <h4>Terry Fletcher</h4>
+              <p>Web Developer</p>
+              <a href="#" class="fa fa-facebook"></a>
+                <a href="#" class="fa fa-twitter"></a>
+                <a href="#" class="fa fa-google"></a>
+                <a href="#" class="fa fa-linkedin"></a>
+                <a href="#" class="fa fa-youtube"></a>
+                <a href="#" class="fa fa-instagram"></a>
+                <a href="#" class="fa fa-pinterest"></a>
+                <a href="#" class="fa fa-skype"></a>
+                <a href="#" class="fa fa-dribbble"></a>
+                <a href="#" class="fa fa-yahoo"></a>
+            </div><!-- /.team-member-->
+          </div><!-- /.col-md-4 -->
+
+
+        </div><!-- /.row -->
+
+                    </div>
+                    <div class="tab-pane fade" id="nav-mech" role="tabpanel" aria-labelledby="nav-mech-tab">
+                        <h2 style="margin: auto;padding: 15px">AERODYNAMICS SUBSYSTEM</h2>
+                                   <div class="row">
+
+          <div class="col-md-3">
+            <div class="team-member">
+              <figure>
+                <img src="http://www.mauritiusdsilva.com/themes/hallooou/assets/images/lauren-cox.jpg" alt="" class="img-responsive" />
+              </figure>
+              <h4>Lauren Cox</h4>
+              <p>Creative Director</p>
+              <a href="#" class="fa fa-facebook"></a>
+                <a href="#" class="fa fa-twitter"></a>
+                <a href="#" class="fa fa-google"></a>
+                <a href="#" class="fa fa-linkedin"></a>
+                <a href="#" class="fa fa-youtube"></a>
+                <a href="#" class="fa fa-instagram"></a>
+                <a href="#" class="fa fa-pinterest"></a>
+                <a href="#" class="fa fa-skype"></a>
+                <a href="#" class="fa fa-dribbble"></a>
+                <a href="#" class="fa fa-yahoo"></a>
+            </div><!-- /.team-member-->
+          </div><!-- /.col-md-4 -->
+
+          <div class="col-md-3">
+            <div class="team-member">
+              <figure>
+                <img src="http://www.mauritiusdsilva.com/themes/hallooou/assets/images/jessie-barnett.jpg" alt="" class="img-responsive" />
+
+              </figure>
+              <h4>Jessie Barnett</h4>
+              <p>UI/UX Designer</p>
+              <a href="#" class="fa fa-facebook"></a>
+                <a href="#" class="fa fa-twitter"></a>
+                <a href="#" class="fa fa-google"></a>
+                <a href="#" class="fa fa-linkedin"></a>
+                <a href="#" class="fa fa-youtube"></a>
+                <a href="#" class="fa fa-instagram"></a>
+                <a href="#" class="fa fa-pinterest"></a>
+                <a href="#" class="fa fa-skype"></a>
+                <a href="#" class="fa fa-dribbble"></a>
+                <a href="#" class="fa fa-yahoo"></a>
+            </div><!-- /.team-member-->
+          </div><!-- /.col-md-4 -->
+
+          <div class="col-md-3">
+            <div class="team-member">
+              <figure>
+                <img src="http://www.mauritiusdsilva.com/themes/hallooou/assets/images/terry-fletcher.jpg" alt="" class="img-responsive" />
+              </figure>
+              <h4>Terry Fletcher</h4>
+              <p>Web Developer</p>
+              <a href="#" class="fa fa-facebook"></a>
+                <a href="#" class="fa fa-twitter"></a>
+                <a href="#" class="fa fa-google"></a>
+                <a href="#" class="fa fa-linkedin"></a>
+                <a href="#" class="fa fa-youtube"></a>
+                <a href="#" class="fa fa-instagram"></a>
+                <a href="#" class="fa fa-pinterest"></a>
+                <a href="#" class="fa fa-skype"></a>
+                <a href="#" class="fa fa-dribbble"></a>
+                <a href="#" class="fa fa-yahoo"></a>
+            </div><!-- /.team-member-->
+          </div><!-- /.col-md-4 -->
+
+          <div class="col-md-3">
+            <div class="team-member">
+              <figure>
+                <img src="http://www.mauritiusdsilva.com/themes/hallooou/assets/images/terry-fletcher.jpg" alt="" class="img-responsive" />
+              </figure>
+              <h4>Terry Fletcher</h4>
+              <p>Web Developer</p>
+              <a href="#" class="fa fa-facebook"></a>
+                <a href="#" class="fa fa-twitter"></a>
+                <a href="#" class="fa fa-google"></a>
+                <a href="#" class="fa fa-linkedin"></a>
+                <a href="#" class="fa fa-youtube"></a>
+                <a href="#" class="fa fa-instagram"></a>
+                <a href="#" class="fa fa-pinterest"></a>
+                <a href="#" class="fa fa-skype"></a>
+                <a href="#" class="fa fa-dribbble"></a>
+                <a href="#" class="fa fa-yahoo"></a>
+            </div><!-- /.team-member-->
+          </div><!-- /.col-md-4 -->
+
+
+        </div><!-- /.row -->
+        <h2 style="margin: auto;padding: 15px">AERODYNAMICS SUBSYSTEM</h2>
+                                   <div class="row">
+
+          <div class="col-md-3">
+            <div class="team-member">
+              <figure>
+                <img src="http://www.mauritiusdsilva.com/themes/hallooou/assets/images/lauren-cox.jpg" alt="" class="img-responsive" />
+              </figure>
+              <h4>Lauren Cox</h4>
+              <p>Creative Director</p>
+              <a href="#" class="fa fa-facebook"></a>
+                <a href="#" class="fa fa-twitter"></a>
+                <a href="#" class="fa fa-google"></a>
+                <a href="#" class="fa fa-linkedin"></a>
+                <a href="#" class="fa fa-youtube"></a>
+                <a href="#" class="fa fa-instagram"></a>
+                <a href="#" class="fa fa-pinterest"></a>
+                <a href="#" class="fa fa-skype"></a>
+                <a href="#" class="fa fa-dribbble"></a>
+                <a href="#" class="fa fa-yahoo"></a>
+            </div><!-- /.team-member-->
+          </div><!-- /.col-md-4 -->
+
+          <div class="col-md-3">
+            <div class="team-member">
+              <figure>
+                <img src="http://www.mauritiusdsilva.com/themes/hallooou/assets/images/jessie-barnett.jpg" alt="" class="img-responsive" />
+
+              </figure>
+              <h4>Jessie Barnett</h4>
+              <p>UI/UX Designer</p>
+              <a href="#" class="fa fa-facebook"></a>
+                <a href="#" class="fa fa-twitter"></a>
+                <a href="#" class="fa fa-google"></a>
+                <a href="#" class="fa fa-linkedin"></a>
+                <a href="#" class="fa fa-youtube"></a>
+                <a href="#" class="fa fa-instagram"></a>
+                <a href="#" class="fa fa-pinterest"></a>
+                <a href="#" class="fa fa-skype"></a>
+                <a href="#" class="fa fa-dribbble"></a>
+                <a href="#" class="fa fa-yahoo"></a>
+            </div><!-- /.team-member-->
+          </div><!-- /.col-md-4 -->
+
+          <div class="col-md-3">
+            <div class="team-member">
+              <figure>
+                <img src="http://www.mauritiusdsilva.com/themes/hallooou/assets/images/terry-fletcher.jpg" alt="" class="img-responsive" />
+              </figure>
+              <h4>Terry Fletcher</h4>
+              <p>Web Developer</p>
+              <a href="#" class="fa fa-facebook"></a>
+                <a href="#" class="fa fa-twitter"></a>
+                <a href="#" class="fa fa-google"></a>
+                <a href="#" class="fa fa-linkedin"></a>
+                <a href="#" class="fa fa-youtube"></a>
+                <a href="#" class="fa fa-instagram"></a>
+                <a href="#" class="fa fa-pinterest"></a>
+                <a href="#" class="fa fa-skype"></a>
+                <a href="#" class="fa fa-dribbble"></a>
+                <a href="#" class="fa fa-yahoo"></a>
+            </div><!-- /.team-member-->
+          </div><!-- /.col-md-4 -->
+
+          <div class="col-md-3">
+            <div class="team-member">
+              <figure>
+                <img src="http://www.mauritiusdsilva.com/themes/hallooou/assets/images/terry-fletcher.jpg" alt="" class="img-responsive" />
+              </figure>
+              <h4>Terry Fletcher</h4>
+              <p>Web Developer</p>
+              <a href="#" class="fa fa-facebook"></a>
+                <a href="#" class="fa fa-twitter"></a>
+                <a href="#" class="fa fa-google"></a>
+                <a href="#" class="fa fa-linkedin"></a>
+                <a href="#" class="fa fa-youtube"></a>
+                <a href="#" class="fa fa-instagram"></a>
+                <a href="#" class="fa fa-pinterest"></a>
+                <a href="#" class="fa fa-skype"></a>
+                <a href="#" class="fa fa-dribbble"></a>
+                <a href="#" class="fa fa-yahoo"></a>
+            </div><!-- /.team-member-->
+          </div><!-- /.col-md-4 -->
+
+
+        </div><!-- /.row -->
+        <h2 style="margin: auto;padding: 15px">AERODYNAMICS SUBSYSTEM</h2>
+                                   <div class="row">
+
+          <div class="col-md-3">
+            <div class="team-member">
+              <figure>
+                <img src="http://www.mauritiusdsilva.com/themes/hallooou/assets/images/lauren-cox.jpg" alt="" class="img-responsive" />
+              </figure>
+              <h4>Lauren Cox</h4>
+              <p>Creative Director</p>
+              <a href="#" class="fa fa-facebook"></a>
+                <a href="#" class="fa fa-twitter"></a>
+                <a href="#" class="fa fa-google"></a>
+                <a href="#" class="fa fa-linkedin"></a>
+                <a href="#" class="fa fa-youtube"></a>
+                <a href="#" class="fa fa-instagram"></a>
+                <a href="#" class="fa fa-pinterest"></a>
+                <a href="#" class="fa fa-skype"></a>
+                <a href="#" class="fa fa-dribbble"></a>
+                <a href="#" class="fa fa-yahoo"></a>
+            </div><!-- /.team-member-->
+          </div><!-- /.col-md-4 -->
+
+          <div class="col-md-3">
+            <div class="team-member">
+              <figure>
+                <img src="http://www.mauritiusdsilva.com/themes/hallooou/assets/images/jessie-barnett.jpg" alt="" class="img-responsive" />
+
+              </figure>
+              <h4>Jessie Barnett</h4>
+              <p>UI/UX Designer</p>
+              <a href="#" class="fa fa-facebook"></a>
+                <a href="#" class="fa fa-twitter"></a>
+                <a href="#" class="fa fa-google"></a>
+                <a href="#" class="fa fa-linkedin"></a>
+                <a href="#" class="fa fa-youtube"></a>
+                <a href="#" class="fa fa-instagram"></a>
+                <a href="#" class="fa fa-pinterest"></a>
+                <a href="#" class="fa fa-skype"></a>
+                <a href="#" class="fa fa-dribbble"></a>
+                <a href="#" class="fa fa-yahoo"></a>
+            </div><!-- /.team-member-->
+          </div><!-- /.col-md-4 -->
+
+          <div class="col-md-3">
+            <div class="team-member">
+              <figure>
+                <img src="http://www.mauritiusdsilva.com/themes/hallooou/assets/images/terry-fletcher.jpg" alt="" class="img-responsive" />
+              </figure>
+              <h4>Terry Fletcher</h4>
+              <p>Web Developer</p>
+              <a href="#" class="fa fa-facebook"></a>
+                <a href="#" class="fa fa-twitter"></a>
+                <a href="#" class="fa fa-google"></a>
+                <a href="#" class="fa fa-linkedin"></a>
+                <a href="#" class="fa fa-youtube"></a>
+                <a href="#" class="fa fa-instagram"></a>
+                <a href="#" class="fa fa-pinterest"></a>
+                <a href="#" class="fa fa-skype"></a>
+                <a href="#" class="fa fa-dribbble"></a>
+                <a href="#" class="fa fa-yahoo"></a>
+            </div><!-- /.team-member-->
+          </div><!-- /.col-md-4 -->
+
+          <div class="col-md-3">
+            <div class="team-member">
+              <figure>
+                <img src="http://www.mauritiusdsilva.com/themes/hallooou/assets/images/terry-fletcher.jpg" alt="" class="img-responsive" />
+              </figure>
+              <h4>Terry Fletcher</h4>
+              <p>Web Developer</p>
+              <a href="#" class="fa fa-facebook"></a>
+                <a href="#" class="fa fa-twitter"></a>
+                <a href="#" class="fa fa-google"></a>
+                <a href="#" class="fa fa-linkedin"></a>
+                <a href="#" class="fa fa-youtube"></a>
+                <a href="#" class="fa fa-instagram"></a>
+                <a href="#" class="fa fa-pinterest"></a>
+                <a href="#" class="fa fa-skype"></a>
+                <a href="#" class="fa fa-dribbble"></a>
+                <a href="#" class="fa fa-yahoo"></a>
+            </div><!-- /.team-member-->
+          </div><!-- /.col-md-4 -->
+
+
+        </div><!-- /.row -->
+        <h2 style="margin: auto;padding: 15px">AERODYNAMICS SUBSYSTEM</h2>
+                                   <div class="row">
+
+          <div class="col-md-3">
+            <div class="team-member">
+              <figure>
+                <img src="http://www.mauritiusdsilva.com/themes/hallooou/assets/images/lauren-cox.jpg" alt="" class="img-responsive" />
+              </figure>
+              <h4>Lauren Cox</h4>
+              <p>Creative Director</p>
+              <a href="#" class="fa fa-facebook"></a>
+                <a href="#" class="fa fa-twitter"></a>
+                <a href="#" class="fa fa-google"></a>
+                <a href="#" class="fa fa-linkedin"></a>
+                <a href="#" class="fa fa-youtube"></a>
+                <a href="#" class="fa fa-instagram"></a>
+                <a href="#" class="fa fa-pinterest"></a>
+                <a href="#" class="fa fa-skype"></a>
+                <a href="#" class="fa fa-dribbble"></a>
+                <a href="#" class="fa fa-yahoo"></a>
+            </div><!-- /.team-member-->
+          </div><!-- /.col-md-4 -->
+
+          <div class="col-md-3">
+            <div class="team-member">
+              <figure>
+                <img src="http://www.mauritiusdsilva.com/themes/hallooou/assets/images/jessie-barnett.jpg" alt="" class="img-responsive" />
+
+              </figure>
+              <h4>Jessie Barnett</h4>
+              <p>UI/UX Designer</p>
+              <a href="#" class="fa fa-facebook"></a>
+                <a href="#" class="fa fa-twitter"></a>
+                <a href="#" class="fa fa-google"></a>
+                <a href="#" class="fa fa-linkedin"></a>
+                <a href="#" class="fa fa-youtube"></a>
+                <a href="#" class="fa fa-instagram"></a>
+                <a href="#" class="fa fa-pinterest"></a>
+                <a href="#" class="fa fa-skype"></a>
+                <a href="#" class="fa fa-dribbble"></a>
+                <a href="#" class="fa fa-yahoo"></a>
+            </div><!-- /.team-member-->
+          </div><!-- /.col-md-4 -->
+
+          <div class="col-md-3">
+            <div class="team-member">
+              <figure>
+                <img src="http://www.mauritiusdsilva.com/themes/hallooou/assets/images/terry-fletcher.jpg" alt="" class="img-responsive" />
+              </figure>
+              <h4>Terry Fletcher</h4>
+              <p>Web Developer</p>
+              <a href="#" class="fa fa-facebook"></a>
+                <a href="#" class="fa fa-twitter"></a>
+                <a href="#" class="fa fa-google"></a>
+                <a href="#" class="fa fa-linkedin"></a>
+                <a href="#" class="fa fa-youtube"></a>
+                <a href="#" class="fa fa-instagram"></a>
+                <a href="#" class="fa fa-pinterest"></a>
+                <a href="#" class="fa fa-skype"></a>
+                <a href="#" class="fa fa-dribbble"></a>
+                <a href="#" class="fa fa-yahoo"></a>
+            </div><!-- /.team-member-->
+          </div><!-- /.col-md-4 -->
+
+          <div class="col-md-3">
+            <div class="team-member">
+              <figure>
+                <img src="http://www.mauritiusdsilva.com/themes/hallooou/assets/images/terry-fletcher.jpg" alt="" class="img-responsive" />
+              </figure>
+              <h4>Terry Fletcher</h4>
+              <p>Web Developer</p>
+              <a href="#" class="fa fa-facebook"></a>
+                <a href="#" class="fa fa-twitter"></a>
+                <a href="#" class="fa fa-google"></a>
+                <a href="#" class="fa fa-linkedin"></a>
+                <a href="#" class="fa fa-youtube"></a>
+                <a href="#" class="fa fa-instagram"></a>
+                <a href="#" class="fa fa-pinterest"></a>
+                <a href="#" class="fa fa-skype"></a>
+                <a href="#" class="fa fa-dribbble"></a>
+                <a href="#" class="fa fa-yahoo"></a>
+            </div><!-- /.team-member-->
+          </div><!-- /.col-md-4 -->
+
+
+        </div><!-- /.row -->
+        <h2 style="margin: auto;padding: 15px">AERODYNAMICS SUBSYSTEM</h2>
+                                   <div class="row">
+
+          <div class="col-md-3">
+            <div class="team-member">
+              <figure>
+                <img src="http://www.mauritiusdsilva.com/themes/hallooou/assets/images/lauren-cox.jpg" alt="" class="img-responsive" />
+              </figure>
+              <h4>Lauren Cox</h4>
+              <p>Creative Director</p>
+              <a href="#" class="fa fa-facebook"></a>
+                <a href="#" class="fa fa-twitter"></a>
+                <a href="#" class="fa fa-google"></a>
+                <a href="#" class="fa fa-linkedin"></a>
+                <a href="#" class="fa fa-youtube"></a>
+                <a href="#" class="fa fa-instagram"></a>
+                <a href="#" class="fa fa-pinterest"></a>
+                <a href="#" class="fa fa-skype"></a>
+                <a href="#" class="fa fa-dribbble"></a>
+                <a href="#" class="fa fa-yahoo"></a>
+            </div><!-- /.team-member-->
+          </div><!-- /.col-md-4 -->
+
+          <div class="col-md-3">
+            <div class="team-member">
+              <figure>
+                <img src="http://www.mauritiusdsilva.com/themes/hallooou/assets/images/jessie-barnett.jpg" alt="" class="img-responsive" />
+
+              </figure>
+              <h4>Jessie Barnett</h4>
+              <p>UI/UX Designer</p>
+              <a href="#" class="fa fa-facebook"></a>
+                <a href="#" class="fa fa-twitter"></a>
+                <a href="#" class="fa fa-google"></a>
+                <a href="#" class="fa fa-linkedin"></a>
+                <a href="#" class="fa fa-youtube"></a>
+                <a href="#" class="fa fa-instagram"></a>
+                <a href="#" class="fa fa-pinterest"></a>
+                <a href="#" class="fa fa-skype"></a>
+                <a href="#" class="fa fa-dribbble"></a>
+                <a href="#" class="fa fa-yahoo"></a>
+            </div><!-- /.team-member-->
+          </div><!-- /.col-md-4 -->
+
+          <div class="col-md-3">
+            <div class="team-member">
+              <figure>
+                <img src="http://www.mauritiusdsilva.com/themes/hallooou/assets/images/terry-fletcher.jpg" alt="" class="img-responsive" />
+              </figure>
+              <h4>Terry Fletcher</h4>
+              <p>Web Developer</p>
+              <a href="#" class="fa fa-facebook"></a>
+                <a href="#" class="fa fa-twitter"></a>
+                <a href="#" class="fa fa-google"></a>
+                <a href="#" class="fa fa-linkedin"></a>
+                <a href="#" class="fa fa-youtube"></a>
+                <a href="#" class="fa fa-instagram"></a>
+                <a href="#" class="fa fa-pinterest"></a>
+                <a href="#" class="fa fa-skype"></a>
+                <a href="#" class="fa fa-dribbble"></a>
+                <a href="#" class="fa fa-yahoo"></a>
+            </div><!-- /.team-member-->
+          </div><!-- /.col-md-4 -->
+
+          <div class="col-md-3">
+            <div class="team-member">
+              <figure>
+                <img src="http://www.mauritiusdsilva.com/themes/hallooou/assets/images/terry-fletcher.jpg" alt="" class="img-responsive" />
+              </figure>
+              <h4>Terry Fletcher</h4>
+              <p>Web Developer</p>
+              <a href="#" class="fa fa-facebook"></a>
+                <a href="#" class="fa fa-twitter"></a>
+                <a href="#" class="fa fa-google"></a>
+                <a href="#" class="fa fa-linkedin"></a>
+                <a href="#" class="fa fa-youtube"></a>
+                <a href="#" class="fa fa-instagram"></a>
+                <a href="#" class="fa fa-pinterest"></a>
+                <a href="#" class="fa fa-skype"></a>
+                <a href="#" class="fa fa-dribbble"></a>
+                <a href="#" class="fa fa-yahoo"></a>
+            </div><!-- /.team-member-->
+          </div><!-- /.col-md-4 -->
+
+
+        </div><!-- /.row -->
+        <h2 style="margin: auto;padding: 15px">AERODYNAMICS SUBSYSTEM</h2>
+                                   <div class="row">
+
+          <div class="col-md-3">
+            <div class="team-member">
+              <figure>
+                <img src="http://www.mauritiusdsilva.com/themes/hallooou/assets/images/lauren-cox.jpg" alt="" class="img-responsive" />
+              </figure>
+              <h4>Lauren Cox</h4>
+              <p>Creative Director</p>
+              <a href="#" class="fa fa-facebook"></a>
+                <a href="#" class="fa fa-twitter"></a>
+                <a href="#" class="fa fa-google"></a>
+                <a href="#" class="fa fa-linkedin"></a>
+                <a href="#" class="fa fa-youtube"></a>
+                <a href="#" class="fa fa-instagram"></a>
+                <a href="#" class="fa fa-pinterest"></a>
+                <a href="#" class="fa fa-skype"></a>
+                <a href="#" class="fa fa-dribbble"></a>
+                <a href="#" class="fa fa-yahoo"></a>
+            </div><!-- /.team-member-->
+          </div><!-- /.col-md-4 -->
+
+          <div class="col-md-3">
+            <div class="team-member">
+              <figure>
+                <img src="http://www.mauritiusdsilva.com/themes/hallooou/assets/images/jessie-barnett.jpg" alt="" class="img-responsive" />
+
+              </figure>
+              <h4>Jessie Barnett</h4>
+              <p>UI/UX Designer</p>
+              <a href="#" class="fa fa-facebook"></a>
+                <a href="#" class="fa fa-twitter"></a>
+                <a href="#" class="fa fa-google"></a>
+                <a href="#" class="fa fa-linkedin"></a>
+                <a href="#" class="fa fa-youtube"></a>
+                <a href="#" class="fa fa-instagram"></a>
+                <a href="#" class="fa fa-pinterest"></a>
+                <a href="#" class="fa fa-skype"></a>
+                <a href="#" class="fa fa-dribbble"></a>
+                <a href="#" class="fa fa-yahoo"></a>
+            </div><!-- /.team-member-->
+          </div><!-- /.col-md-4 -->
+
+          <div class="col-md-3">
+            <div class="team-member">
+              <figure>
+                <img src="http://www.mauritiusdsilva.com/themes/hallooou/assets/images/terry-fletcher.jpg" alt="" class="img-responsive" />
+              </figure>
+              <h4>Terry Fletcher</h4>
+              <p>Web Developer</p>
+              <a href="#" class="fa fa-facebook"></a>
+                <a href="#" class="fa fa-twitter"></a>
+                <a href="#" class="fa fa-google"></a>
+                <a href="#" class="fa fa-linkedin"></a>
+                <a href="#" class="fa fa-youtube"></a>
+                <a href="#" class="fa fa-instagram"></a>
+                <a href="#" class="fa fa-pinterest"></a>
+                <a href="#" class="fa fa-skype"></a>
+                <a href="#" class="fa fa-dribbble"></a>
+                <a href="#" class="fa fa-yahoo"></a>
+            </div><!-- /.team-member-->
+          </div><!-- /.col-md-4 -->
+
+          <div class="col-md-3">
+            <div class="team-member">
+              <figure>
+                <img src="http://www.mauritiusdsilva.com/themes/hallooou/assets/images/terry-fletcher.jpg" alt="" class="img-responsive" />
+              </figure>
+              <h4>Terry Fletcher</h4>
+              <p>Web Developer</p>
+              <a href="#" class="fa fa-facebook"></a>
+                <a href="#" class="fa fa-twitter"></a>
+                <a href="#" class="fa fa-google"></a>
+                <a href="#" class="fa fa-linkedin"></a>
+                <a href="#" class="fa fa-youtube"></a>
+                <a href="#" class="fa fa-instagram"></a>
+                <a href="#" class="fa fa-pinterest"></a>
+                <a href="#" class="fa fa-skype"></a>
+                <a href="#" class="fa fa-dribbble"></a>
+                <a href="#" class="fa fa-yahoo"></a>
+            </div><!-- /.team-member-->
+          </div><!-- /.col-md-4 -->
+
+
+        </div><!-- /.row -->
+        <h2 style="margin: auto;padding: 15px">AERODYNAMICS SUBSYSTEM</h2>
+                                   <div class="row">
+
+          <div class="col-md-3">
+            <div class="team-member">
+              <figure>
+                <img src="http://www.mauritiusdsilva.com/themes/hallooou/assets/images/lauren-cox.jpg" alt="" class="img-responsive" />
+              </figure>
+              <h4>Lauren Cox</h4>
+              <p>Creative Director</p>
+              <a href="#" class="fa fa-facebook"></a>
+                <a href="#" class="fa fa-twitter"></a>
+                <a href="#" class="fa fa-google"></a>
+                <a href="#" class="fa fa-linkedin"></a>
+                <a href="#" class="fa fa-youtube"></a>
+                <a href="#" class="fa fa-instagram"></a>
+                <a href="#" class="fa fa-pinterest"></a>
+                <a href="#" class="fa fa-skype"></a>
+                <a href="#" class="fa fa-dribbble"></a>
+                <a href="#" class="fa fa-yahoo"></a>
+            </div><!-- /.team-member-->
+          </div><!-- /.col-md-4 -->
+
+          <div class="col-md-3">
+            <div class="team-member">
+              <figure>
+                <img src="http://www.mauritiusdsilva.com/themes/hallooou/assets/images/jessie-barnett.jpg" alt="" class="img-responsive" />
+
+              </figure>
+              <h4>Jessie Barnett</h4>
+              <p>UI/UX Designer</p>
+              <a href="#" class="fa fa-facebook"></a>
+                <a href="#" class="fa fa-twitter"></a>
+                <a href="#" class="fa fa-google"></a>
+                <a href="#" class="fa fa-linkedin"></a>
+                <a href="#" class="fa fa-youtube"></a>
+                <a href="#" class="fa fa-instagram"></a>
+                <a href="#" class="fa fa-pinterest"></a>
+                <a href="#" class="fa fa-skype"></a>
+                <a href="#" class="fa fa-dribbble"></a>
+                <a href="#" class="fa fa-yahoo"></a>
+            </div><!-- /.team-member-->
+          </div><!-- /.col-md-4 -->
+
+          <div class="col-md-3">
+            <div class="team-member">
+              <figure>
+                <img src="http://www.mauritiusdsilva.com/themes/hallooou/assets/images/terry-fletcher.jpg" alt="" class="img-responsive" />
+              </figure>
+              <h4>Terry Fletcher</h4>
+              <p>Web Developer</p>
+              <a href="#" class="fa fa-facebook"></a>
+                <a href="#" class="fa fa-twitter"></a>
+                <a href="#" class="fa fa-google"></a>
+                <a href="#" class="fa fa-linkedin"></a>
+                <a href="#" class="fa fa-youtube"></a>
+                <a href="#" class="fa fa-instagram"></a>
+                <a href="#" class="fa fa-pinterest"></a>
+                <a href="#" class="fa fa-skype"></a>
+                <a href="#" class="fa fa-dribbble"></a>
+                <a href="#" class="fa fa-yahoo"></a>
+            </div><!-- /.team-member-->
+          </div><!-- /.col-md-4 -->
+
+          <div class="col-md-3">
+            <div class="team-member">
+              <figure>
+                <img src="http://www.mauritiusdsilva.com/themes/hallooou/assets/images/terry-fletcher.jpg" alt="" class="img-responsive" />
+              </figure>
+              <h4>Terry Fletcher</h4>
+              <p>Web Developer</p>
+              <a href="#" class="fa fa-facebook"></a>
+                <a href="#" class="fa fa-twitter"></a>
+                <a href="#" class="fa fa-google"></a>
+                <a href="#" class="fa fa-linkedin"></a>
+                <a href="#" class="fa fa-youtube"></a>
+                <a href="#" class="fa fa-instagram"></a>
+                <a href="#" class="fa fa-pinterest"></a>
+                <a href="#" class="fa fa-skype"></a>
+                <a href="#" class="fa fa-dribbble"></a>
+                <a href="#" class="fa fa-yahoo"></a>
+            </div><!-- /.team-member-->
+          </div><!-- /.col-md-4 -->
+
+
+        </div><!-- /.row -->
+                        
+                    </div>
+                    <div class="tab-pane fade" id="nav-elec" role="tabpanel" aria-labelledby="nav-elec-tab">
+                        <h2 style="margin: auto;padding: 15px">AERODYNAMICS SUBSYSTEM</h2>
+                                   <div class="row">
+
+          <div class="col-md-3">
+            <div class="team-member">
+              <figure>
+                <img src="http://www.mauritiusdsilva.com/themes/hallooou/assets/images/lauren-cox.jpg" alt="" class="img-responsive" />
+              </figure>
+              <h4>Lauren Cox</h4>
+              <p>Creative Director</p>
+              <a href="#" class="fa fa-facebook"></a>
+                <a href="#" class="fa fa-twitter"></a>
+                <a href="#" class="fa fa-google"></a>
+                <a href="#" class="fa fa-linkedin"></a>
+                <a href="#" class="fa fa-youtube"></a>
+                <a href="#" class="fa fa-instagram"></a>
+                <a href="#" class="fa fa-pinterest"></a>
+                <a href="#" class="fa fa-skype"></a>
+                <a href="#" class="fa fa-dribbble"></a>
+                <a href="#" class="fa fa-yahoo"></a>
+            </div><!-- /.team-member-->
+          </div><!-- /.col-md-4 -->
+
+          <div class="col-md-3">
+            <div class="team-member">
+              <figure>
+                <img src="http://www.mauritiusdsilva.com/themes/hallooou/assets/images/jessie-barnett.jpg" alt="" class="img-responsive" />
+
+              </figure>
+              <h4>Jessie Barnett</h4>
+              <p>UI/UX Designer</p>
+              <a href="#" class="fa fa-facebook"></a>
+                <a href="#" class="fa fa-twitter"></a>
+                <a href="#" class="fa fa-google"></a>
+                <a href="#" class="fa fa-linkedin"></a>
+                <a href="#" class="fa fa-youtube"></a>
+                <a href="#" class="fa fa-instagram"></a>
+                <a href="#" class="fa fa-pinterest"></a>
+                <a href="#" class="fa fa-skype"></a>
+                <a href="#" class="fa fa-dribbble"></a>
+                <a href="#" class="fa fa-yahoo"></a>
+            </div><!-- /.team-member-->
+          </div><!-- /.col-md-4 -->
+
+          <div class="col-md-3">
+            <div class="team-member">
+              <figure>
+                <img src="http://www.mauritiusdsilva.com/themes/hallooou/assets/images/terry-fletcher.jpg" alt="" class="img-responsive" />
+              </figure>
+              <h4>Terry Fletcher</h4>
+              <p>Web Developer</p>
+              <a href="#" class="fa fa-facebook"></a>
+                <a href="#" class="fa fa-twitter"></a>
+                <a href="#" class="fa fa-google"></a>
+                <a href="#" class="fa fa-linkedin"></a>
+                <a href="#" class="fa fa-youtube"></a>
+                <a href="#" class="fa fa-instagram"></a>
+                <a href="#" class="fa fa-pinterest"></a>
+                <a href="#" class="fa fa-skype"></a>
+                <a href="#" class="fa fa-dribbble"></a>
+                <a href="#" class="fa fa-yahoo"></a>
+            </div><!-- /.team-member-->
+          </div><!-- /.col-md-4 -->
+
+          <div class="col-md-3">
+            <div class="team-member">
+              <figure>
+                <img src="http://www.mauritiusdsilva.com/themes/hallooou/assets/images/terry-fletcher.jpg" alt="" class="img-responsive" />
+              </figure>
+              <h4>Terry Fletcher</h4>
+              <p>Web Developer</p>
+              <a href="#" class="fa fa-facebook"></a>
+                <a href="#" class="fa fa-twitter"></a>
+                <a href="#" class="fa fa-google"></a>
+                <a href="#" class="fa fa-linkedin"></a>
+                <a href="#" class="fa fa-youtube"></a>
+                <a href="#" class="fa fa-instagram"></a>
+                <a href="#" class="fa fa-pinterest"></a>
+                <a href="#" class="fa fa-skype"></a>
+                <a href="#" class="fa fa-dribbble"></a>
+                <a href="#" class="fa fa-yahoo"></a>
+            </div><!-- /.team-member-->
+          </div><!-- /.col-md-4 -->
+
+
+        </div><!-- /.row -->
+        <h2 style="margin: auto;padding: 15px">AERODYNAMICS SUBSYSTEM</h2>
+                                   <div class="row">
+
+          <div class="col-md-3">
+            <div class="team-member">
+              <figure>
+                <img src="http://www.mauritiusdsilva.com/themes/hallooou/assets/images/lauren-cox.jpg" alt="" class="img-responsive" />
+              </figure>
+              <h4>Lauren Cox</h4>
+              <p>Creative Director</p>
+              <a href="#" class="fa fa-facebook"></a>
+                <a href="#" class="fa fa-twitter"></a>
+                <a href="#" class="fa fa-google"></a>
+                <a href="#" class="fa fa-linkedin"></a>
+                <a href="#" class="fa fa-youtube"></a>
+                <a href="#" class="fa fa-instagram"></a>
+                <a href="#" class="fa fa-pinterest"></a>
+                <a href="#" class="fa fa-skype"></a>
+                <a href="#" class="fa fa-dribbble"></a>
+                <a href="#" class="fa fa-yahoo"></a>
+            </div><!-- /.team-member-->
+          </div><!-- /.col-md-4 -->
+
+          <div class="col-md-3">
+            <div class="team-member">
+              <figure>
+                <img src="http://www.mauritiusdsilva.com/themes/hallooou/assets/images/jessie-barnett.jpg" alt="" class="img-responsive" />
+
+              </figure>
+              <h4>Jessie Barnett</h4>
+              <p>UI/UX Designer</p>
+              <a href="#" class="fa fa-facebook"></a>
+                <a href="#" class="fa fa-twitter"></a>
+                <a href="#" class="fa fa-google"></a>
+                <a href="#" class="fa fa-linkedin"></a>
+                <a href="#" class="fa fa-youtube"></a>
+                <a href="#" class="fa fa-instagram"></a>
+                <a href="#" class="fa fa-pinterest"></a>
+                <a href="#" class="fa fa-skype"></a>
+                <a href="#" class="fa fa-dribbble"></a>
+                <a href="#" class="fa fa-yahoo"></a>
+            </div><!-- /.team-member-->
+          </div><!-- /.col-md-4 -->
+
+          <div class="col-md-3">
+            <div class="team-member">
+              <figure>
+                <img src="http://www.mauritiusdsilva.com/themes/hallooou/assets/images/terry-fletcher.jpg" alt="" class="img-responsive" />
+              </figure>
+              <h4>Terry Fletcher</h4>
+              <p>Web Developer</p>
+              <a href="#" class="fa fa-facebook"></a>
+                <a href="#" class="fa fa-twitter"></a>
+                <a href="#" class="fa fa-google"></a>
+                <a href="#" class="fa fa-linkedin"></a>
+                <a href="#" class="fa fa-youtube"></a>
+                <a href="#" class="fa fa-instagram"></a>
+                <a href="#" class="fa fa-pinterest"></a>
+                <a href="#" class="fa fa-skype"></a>
+                <a href="#" class="fa fa-dribbble"></a>
+                <a href="#" class="fa fa-yahoo"></a>
+            </div><!-- /.team-member-->
+          </div><!-- /.col-md-4 -->
+
+          <div class="col-md-3">
+            <div class="team-member">
+              <figure>
+                <img src="http://www.mauritiusdsilva.com/themes/hallooou/assets/images/terry-fletcher.jpg" alt="" class="img-responsive" />
+              </figure>
+              <h4>Terry Fletcher</h4>
+              <p>Web Developer</p>
+              <a href="#" class="fa fa-facebook"></a>
+                <a href="#" class="fa fa-twitter"></a>
+                <a href="#" class="fa fa-google"></a>
+                <a href="#" class="fa fa-linkedin"></a>
+                <a href="#" class="fa fa-youtube"></a>
+                <a href="#" class="fa fa-instagram"></a>
+                <a href="#" class="fa fa-pinterest"></a>
+                <a href="#" class="fa fa-skype"></a>
+                <a href="#" class="fa fa-dribbble"></a>
+                <a href="#" class="fa fa-yahoo"></a>
+            </div><!-- /.team-member-->
+          </div><!-- /.col-md-4 -->
+
+
+        </div><!-- /.row -->
+        <h2 style="margin: auto;padding: 15px">AERODYNAMICS SUBSYSTEM</h2>
+                                   <div class="row">
+
+          <div class="col-md-3">
+            <div class="team-member">
+              <figure>
+                <img src="http://www.mauritiusdsilva.com/themes/hallooou/assets/images/lauren-cox.jpg" alt="" class="img-responsive" />
+              </figure>
+              <h4>Lauren Cox</h4>
+              <p>Creative Director</p>
+              <a href="#" class="fa fa-facebook"></a>
+                <a href="#" class="fa fa-twitter"></a>
+                <a href="#" class="fa fa-google"></a>
+                <a href="#" class="fa fa-linkedin"></a>
+                <a href="#" class="fa fa-youtube"></a>
+                <a href="#" class="fa fa-instagram"></a>
+                <a href="#" class="fa fa-pinterest"></a>
+                <a href="#" class="fa fa-skype"></a>
+                <a href="#" class="fa fa-dribbble"></a>
+                <a href="#" class="fa fa-yahoo"></a>
+            </div><!-- /.team-member-->
+          </div><!-- /.col-md-4 -->
+
+          <div class="col-md-3">
+            <div class="team-member">
+              <figure>
+                <img src="http://www.mauritiusdsilva.com/themes/hallooou/assets/images/jessie-barnett.jpg" alt="" class="img-responsive" />
+
+              </figure>
+              <h4>Jessie Barnett</h4>
+              <p>UI/UX Designer</p>
+              <a href="#" class="fa fa-facebook"></a>
+                <a href="#" class="fa fa-twitter"></a>
+                <a href="#" class="fa fa-google"></a>
+                <a href="#" class="fa fa-linkedin"></a>
+                <a href="#" class="fa fa-youtube"></a>
+                <a href="#" class="fa fa-instagram"></a>
+                <a href="#" class="fa fa-pinterest"></a>
+                <a href="#" class="fa fa-skype"></a>
+                <a href="#" class="fa fa-dribbble"></a>
+                <a href="#" class="fa fa-yahoo"></a>
+            </div><!-- /.team-member-->
+          </div><!-- /.col-md-4 -->
+
+          <div class="col-md-3">
+            <div class="team-member">
+              <figure>
+                <img src="http://www.mauritiusdsilva.com/themes/hallooou/assets/images/terry-fletcher.jpg" alt="" class="img-responsive" />
+              </figure>
+              <h4>Terry Fletcher</h4>
+              <p>Web Developer</p>
+              <a href="#" class="fa fa-facebook"></a>
+                <a href="#" class="fa fa-twitter"></a>
+                <a href="#" class="fa fa-google"></a>
+                <a href="#" class="fa fa-linkedin"></a>
+                <a href="#" class="fa fa-youtube"></a>
+                <a href="#" class="fa fa-instagram"></a>
+                <a href="#" class="fa fa-pinterest"></a>
+                <a href="#" class="fa fa-skype"></a>
+                <a href="#" class="fa fa-dribbble"></a>
+                <a href="#" class="fa fa-yahoo"></a>
+            </div><!-- /.team-member-->
+          </div><!-- /.col-md-4 -->
+
+          <div class="col-md-3">
+            <div class="team-member">
+              <figure>
+                <img src="http://www.mauritiusdsilva.com/themes/hallooou/assets/images/terry-fletcher.jpg" alt="" class="img-responsive" />
+              </figure>
+              <h4>Terry Fletcher</h4>
+              <p>Web Developer</p>
+              <a href="#" class="fa fa-facebook"></a>
+                <a href="#" class="fa fa-twitter"></a>
+                <a href="#" class="fa fa-google"></a>
+                <a href="#" class="fa fa-linkedin"></a>
+                <a href="#" class="fa fa-youtube"></a>
+                <a href="#" class="fa fa-instagram"></a>
+                <a href="#" class="fa fa-pinterest"></a>
+                <a href="#" class="fa fa-skype"></a>
+                <a href="#" class="fa fa-dribbble"></a>
+                <a href="#" class="fa fa-yahoo"></a>
+            </div><!-- /.team-member-->
+          </div><!-- /.col-md-4 -->
+
+
+        </div><!-- /.row -->
+                    </div>
+                    <div class="tab-pane fade" id="nav-market" role="tabpanel" aria-labelledby="nav-market-tab">
+                        <h2 style="margin: auto;padding: 15px">AERODYNAMICS SUBSYSTEM</h2>
+                                   <div class="row">
+
+          <div class="col-md-3">
+            <div class="team-member">
+              <figure>
+                <img src="http://www.mauritiusdsilva.com/themes/hallooou/assets/images/lauren-cox.jpg" alt="" class="img-responsive" />
+              </figure>
+              <h4>Lauren Cox</h4>
+              <p>Creative Director</p>
+              <a href="#" class="fa fa-facebook"></a>
+                <a href="#" class="fa fa-twitter"></a>
+                <a href="#" class="fa fa-google"></a>
+                <a href="#" class="fa fa-linkedin"></a>
+                <a href="#" class="fa fa-youtube"></a>
+                <a href="#" class="fa fa-instagram"></a>
+                <a href="#" class="fa fa-pinterest"></a>
+                <a href="#" class="fa fa-skype"></a>
+                <a href="#" class="fa fa-dribbble"></a>
+                <a href="#" class="fa fa-yahoo"></a>
+            </div><!-- /.team-member-->
+          </div><!-- /.col-md-4 -->
+
+          <div class="col-md-3">
+            <div class="team-member">
+              <figure>
+                <img src="http://www.mauritiusdsilva.com/themes/hallooou/assets/images/jessie-barnett.jpg" alt="" class="img-responsive" />
+
+              </figure>
+              <h4>Jessie Barnett</h4>
+              <p>UI/UX Designer</p>
+              <a href="#" class="fa fa-facebook"></a>
+                <a href="#" class="fa fa-twitter"></a>
+                <a href="#" class="fa fa-google"></a>
+                <a href="#" class="fa fa-linkedin"></a>
+                <a href="#" class="fa fa-youtube"></a>
+                <a href="#" class="fa fa-instagram"></a>
+                <a href="#" class="fa fa-pinterest"></a>
+                <a href="#" class="fa fa-skype"></a>
+                <a href="#" class="fa fa-dribbble"></a>
+                <a href="#" class="fa fa-yahoo"></a>
+            </div><!-- /.team-member-->
+          </div><!-- /.col-md-4 -->
+
+          <div class="col-md-3">
+            <div class="team-member">
+              <figure>
+                <img src="http://www.mauritiusdsilva.com/themes/hallooou/assets/images/terry-fletcher.jpg" alt="" class="img-responsive" />
+              </figure>
+              <h4>Terry Fletcher</h4>
+              <p>Web Developer</p>
+              <a href="#" class="fa fa-facebook"></a>
+                <a href="#" class="fa fa-twitter"></a>
+                <a href="#" class="fa fa-google"></a>
+                <a href="#" class="fa fa-linkedin"></a>
+                <a href="#" class="fa fa-youtube"></a>
+                <a href="#" class="fa fa-instagram"></a>
+                <a href="#" class="fa fa-pinterest"></a>
+                <a href="#" class="fa fa-skype"></a>
+                <a href="#" class="fa fa-dribbble"></a>
+                <a href="#" class="fa fa-yahoo"></a>
+            </div><!-- /.team-member-->
+          </div><!-- /.col-md-4 -->
+
+          <div class="col-md-3">
+            <div class="team-member">
+              <figure>
+                <img src="http://www.mauritiusdsilva.com/themes/hallooou/assets/images/terry-fletcher.jpg" alt="" class="img-responsive" />
+              </figure>
+              <h4>Terry Fletcher</h4>
+              <p>Web Developer</p>
+              <a href="#" class="fa fa-facebook"></a>
+                <a href="#" class="fa fa-twitter"></a>
+                <a href="#" class="fa fa-google"></a>
+                <a href="#" class="fa fa-linkedin"></a>
+                <a href="#" class="fa fa-youtube"></a>
+                <a href="#" class="fa fa-instagram"></a>
+                <a href="#" class="fa fa-pinterest"></a>
+                <a href="#" class="fa fa-skype"></a>
+                <a href="#" class="fa fa-dribbble"></a>
+                <a href="#" class="fa fa-yahoo"></a>
+            </div><!-- /.team-member-->
+          </div><!-- /.col-md-4 -->
+
+
+        </div><!-- /.row -->
+                    </div>
+                </div>
+            </div>
+            </div>
+        </div>
+    </div>
+<p>&lt;/div&gt;</p>
+:ET
