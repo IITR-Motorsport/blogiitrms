@@ -1,4 +1,4 @@
-I"Ý9<div class="container">
+I"ÿ9<div class="container">
     
 
     
@@ -42,8 +42,9 @@
         <!-- second latest post --><div class="mb-3 d-flex align-items-center">                
                 
                 <div class="col-md-4">
-                <a href="/blogiitrms/daq/">
-                 <img class="w-100" src="utkarshmishra04.github.io/blogiitrms/assets/images/elec/daq.jpg" alt="Our Data Acquisition System (DAQ)" />
+                <!--a href="/blogiitrms/daq/"-->
+                <a href="/daq/">
+                 <img class="w-100" src="http://localhost:4000/blogiitrms/assets/images/elec/daq.jpg" alt="Our Data Acquisition System (DAQ)" />
                 </a>
                 </div>
                                 
