@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Aerodynamics Subsystem"
-categories: [ subsystem ]
+categories: [ Subsystem ]
 image: assets/images/aero/nose_diff.jpg
 tags: [featured]
 ---
