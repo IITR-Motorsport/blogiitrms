@@ -1,0 +1,2 @@
+I"5<p>Data Acquisition System’s main function is to acquire various sensors data and other important information from various electric subsystems. Sensors like speed sensor, inertial measurement unit (MPU6050), temperature sensor, GPS module and potentiometers are integrated with DAQ to measure speed, position, temperature, angle etc… Display devices (LCD) and storage devices (SD card) are also integrated with DAQ to facilitate driver with some required information like speed, state of charge of battery etc… and store real time sensor data in SD card.</p>
+:ET
