@@ -2,7 +2,7 @@
 layout: post
 title:  "The Electric Powertrain"
 categories: [ Subsystem ]
-image: assets/images/7.jpg
+image: assets/images/4.jpg
 ---
 Have you ever thought of how the wheels in a racing car run at a jaw-dropping speed of 150 km/hr. So this depends upon the electric powertrain and therefore, comes the importance of Motor and Motor controller.
 
