@@ -2,7 +2,7 @@
 layout: post
 title:  "The Suspension Subsystem"
 categories: [Subsystem]
-image: https://images.unsplash.com/photo-1528784351875-d797d86873a1?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80
+image: assets/images/suspension/susp_cover.jpg
 ---
 In simple words, everything between the road and the car body, which is generally not supported by the springs comes inside the suspension system. All forces like acceleration, braking, turning, vibrations, etc go right through the suspension system before getting distributed to the steering and the chassis. To try to manipulate these forces and get the best out of them is the job of the suspension engineer
 

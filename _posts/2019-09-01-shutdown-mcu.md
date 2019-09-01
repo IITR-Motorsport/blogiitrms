@@ -2,7 +2,7 @@
 layout: post
 title:  "ShutDown System & Motor Control Unit"
 categories: [ Electrical ]
-image: assets/images/2.jpg
+image: assets/images/elec/nucleo.jpg
 ---
 
 Electric vehicles have the potential to make the world a better place. In IC engine vehicles and electric vehicles and a further two-wheelers and four-wheelers, where the complexities in controls are drastically different, the common technology thread between them is a humble electronic component, the **Electronic Control Unit**.
