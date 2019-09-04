@@ -1,0 +1,37 @@
+I"!<p>Chassis of a vehicle serves as a framework on which all other components are attached. In Formula Student cars, types of chassis are Monocoque, Spaceframe or Hybrid (of both).</p>
+
+<p>Design specifications in chassis design are:-
+These things are not in priority order, means everything is equally important.</p>
+
+<p><strong>Ergonomics</strong></p>
+
+<p>Driver comfort is an affecting factor in chassis design. The cockpit has comfortable seating position with proper visibility and all the controls must be easily accessible to the driver. It must follow all driver safety rules. Further dimension demands also require 95th percentile of male drivers and it must allow quick driver egress.</p>
+
+<p><strong>Low CG &amp; Lightweight</strong></p>
+
+<p>According to “Pat’s three rules of FS design”,</p>
+
+<figure>
+  <img src="/blogiitrms/assets/images/structural/pat1.png" alt="Pat" />
+  <center><figcaption>Components of a suspension system</figcaption></center>
+</figure>
+
+<p>So basic requirements are to reduce weight, lower the weight and centralize the weight”.</p>
+
+<p><strong>FSAE Rulebook</strong></p>
+
+<p>Formula Student has an extensive set of rules, which are important for safety concerns. There are numbers of strict rules which must be taken into account.</p>
+
+<p><strong>Stiffness</strong></p>
+
+<p>An important measure for a race car chassis is Hub-Hub Torsional Stiffness. It has a major influence on the lateral load transfer balance between the front and rear wheels. It is preferable to have high torsional rigidity but it serves weight penalty.</p>
+
+<p><strong>Structural Strength</strong></p>
+
+<p>Design of chassis must include crash safety features like a front bulkhead, two roll hoops (front &amp; rear), side-impact structure. These features also require structural demands. Roll hoops must be made up of steel tubes and corresponding parts must have yield and ultimate strength equivalent to that of steel tubular structure in tension, bending and buckling. Every primary structure tube must have minimum dimensions written in the rulebook. Finally, the chassis has to withstand the dynamic loads (from other parts) and driver reactions.</p>
+
+<p><strong>Cost &amp; Manufacturability</strong></p>
+
+<p>An important factor in designing is manufacturability because the design must not be so complicated so that it can cost us huge money and time too. The material and it’s machining cost must be kept low. The machining of fishmouth on the tubes can be made easier by using its profile sketches by CAD software and then use cutting &amp; grinding.
+We have the spaceframe design of chassis, modeled on Solidworks, by calculating the load paths and force distribution. It needs compromise in some design requirements. Further, simulation of it was done on ANSYS Static Structural for impacts and Torsional rigidity.</p>
+:ET
